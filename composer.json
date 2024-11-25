@@ -1,8 +1,9 @@
 {
-    "name": "arielmejiadev/larapex-charts",
+    "name": "proferabg/larapex-charts",
     "description": "Package to provide easy api to build apex charts on Laravel",
     "keywords": [
         "arielmejiadev",
+        "proferabg",
         "larapex",
         "charts",
         "apexcharts"
@@ -14,6 +15,10 @@
         {
             "name": "ArielMejiaDev",
             "email": "arielmejiadev@gmail.com"
+        },
+        {
+            "name": "proferabg",
+            "email": "me@prgm.in"
         }
     ],
     "require": {
